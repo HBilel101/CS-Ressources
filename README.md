@@ -20,6 +20,7 @@ Linkedin Learning provides paths with free Certificate :<br><br>
 - [How to become a software engineer in 8 months and land a job at Amazon](https://github.com/jwasham/coding-interview-university) <br><br>
 - [Developer Roadmaps](https://roadmap.sh/roadmaps)
 Step by step guides and paths to learn different tools or technologies (Frontend,Backend,Devops,Go,Android,React)
-
 <br><br>
+- [Free Coursera Courses](https://www.coursera.org/search?query=free+certificate+courses&irclickid=xMvUqy18LxyLWo8wUx0Mo3EqUkGXRR1sixVWWk0&irgwc=1)<br><br>
+
 - 
